@@ -1,0 +1,22 @@
+.black{
+    background-color: burlywood;
+    color: black;
+    height: 70px;
+    width: 70px;
+    font-size: xx-large;
+    text-align: center;
+}
+.white{
+    background-color: wheat ;
+    font-size: xx-large;
+    text-align: center;
+}
+.num,.alpha{
+    color: rgb(216, 191, 145);
+    height: 70px;
+    width: 50px;
+    background-color: rgb(118, 72, 8);
+}
+#extra{
+    background-color: #654321
+}
